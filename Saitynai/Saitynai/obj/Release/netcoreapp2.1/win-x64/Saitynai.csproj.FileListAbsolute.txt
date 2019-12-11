@@ -1,0 +1,17 @@
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\bin\Release\netcoreapp2.1\win-x64\hostpolicy.dll
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\bin\Release\netcoreapp2.1\win-x64\hostfxr.dll
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\bin\Release\netcoreapp2.1\win-x64\Saitynai.exe
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\bin\Release\netcoreapp2.1\win-x64\Saitynai.deps.json
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\bin\Release\netcoreapp2.1\win-x64\Saitynai.runtimeconfig.json
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\bin\Release\netcoreapp2.1\win-x64\Saitynai.runtimeconfig.dev.json
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\bin\Release\netcoreapp2.1\win-x64\Saitynai.dll
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\bin\Release\netcoreapp2.1\win-x64\Saitynai.pdb
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\obj\Release\netcoreapp2.1\win-x64\Saitynai.csprojAssemblyReference.cache
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\obj\Release\netcoreapp2.1\win-x64\Saitynai.csproj.CoreCompileInputs.cache
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\obj\Release\netcoreapp2.1\win-x64\Saitynai.RazorAssemblyInfo.cache
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\obj\Release\netcoreapp2.1\win-x64\Saitynai.RazorAssemblyInfo.cs
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\obj\Release\netcoreapp2.1\win-x64\Saitynai.AssemblyInfoInputs.cache
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\obj\Release\netcoreapp2.1\win-x64\Saitynai.AssemblyInfo.cs
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\obj\Release\netcoreapp2.1\win-x64\Saitynai.RazorTargetAssemblyInfo.cache
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\obj\Release\netcoreapp2.1\win-x64\Saitynai.dll
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\obj\Release\netcoreapp2.1\win-x64\Saitynai.pdb

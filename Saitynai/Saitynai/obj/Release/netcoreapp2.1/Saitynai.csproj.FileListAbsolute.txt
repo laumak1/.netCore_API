@@ -1,0 +1,14 @@
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\bin\Release\netcoreapp2.1\Saitynai.deps.json
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\bin\Release\netcoreapp2.1\Saitynai.runtimeconfig.json
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\bin\Release\netcoreapp2.1\Saitynai.runtimeconfig.dev.json
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\bin\Release\netcoreapp2.1\Saitynai.dll
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\bin\Release\netcoreapp2.1\Saitynai.pdb
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\obj\Release\netcoreapp2.1\Saitynai.csprojAssemblyReference.cache
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\obj\Release\netcoreapp2.1\Saitynai.csproj.CoreCompileInputs.cache
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\obj\Release\netcoreapp2.1\Saitynai.RazorAssemblyInfo.cache
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\obj\Release\netcoreapp2.1\Saitynai.RazorAssemblyInfo.cs
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\obj\Release\netcoreapp2.1\Saitynai.AssemblyInfoInputs.cache
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\obj\Release\netcoreapp2.1\Saitynai.AssemblyInfo.cs
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\obj\Release\netcoreapp2.1\Saitynai.RazorTargetAssemblyInfo.cache
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\obj\Release\netcoreapp2.1\Saitynai.dll
+C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\obj\Release\netcoreapp2.1\Saitynai.pdb
