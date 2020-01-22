@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Saitynai.Models;
 
 namespace Saitynai.Migrations
 {
     [DbContext(typeof(SaitynaiContext))]
-    partial class SaitynaiContextModelSnapshot : ModelSnapshot
+    [Migration("20191215200025_thirdMigration")]
+    partial class thirdMigration
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -175,8 +177,6 @@ namespace Saitynai.Migrations
                         .ValueGeneratedOnAdd()
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<string>("Description");
-
                     b.Property<string>("Name")
                         .IsRequired();
 
@@ -196,7 +196,7 @@ namespace Saitynai.Migrations
 
                     b.Property<string>("Address");
 
-                    b.Property<DateTime>("BirthDate");
+                    b.Property<DateTime>("BithDate");
 
                     b.Property<string>("ConcurrencyStamp")
                         .IsConcurrencyToken();

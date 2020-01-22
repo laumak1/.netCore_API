@@ -60,7 +60,7 @@ namespace Saitynai.Controllers
                 //_userManager.get
                 var claim = new[] {
                     new Claim(JwtRegisteredClaimNames.Sub, user.UserName),
-                    new Claim(ClaimTypes.Role, roles.First()),
+                    new Claim("role", roles.First()),
                     new Claim("UserId", user.Id)
                 };
                 var signinKey = new SymmetricSecurityKey(

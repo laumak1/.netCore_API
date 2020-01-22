@@ -14,6 +14,8 @@ namespace Saitynai.Models
         [Required]
         public double Price { get; set; }
 
+        public string Description { get; set; }
+
         //public virtual ICollection<OrderProduct> OrderProduct { get; set; }
     }
 }

@@ -65,6 +65,8 @@ namespace Saitynai
                     IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["Jwt:SigningKey"]))
                 };
             });
+
+            services.AddCors();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -78,6 +80,10 @@ namespace Saitynai
             {
                 app.UseHsts();
             }
+            app.UseCors(builder => 
+            builder.WithOrigins("http://localhost:4200")
+            .AllowAnyHeader()
+            .AllowAnyMethod());
 
             app.UseHttpsRedirection();
 

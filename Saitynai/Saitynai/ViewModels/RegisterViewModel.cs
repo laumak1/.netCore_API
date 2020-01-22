@@ -14,5 +14,11 @@ namespace Saitynai.ViewModels
 
         [Required]
         public string Password { get; set; }
+
+        [Required]
+        public string Sex { get; set; }
+
+        [Required]
+        public DateTime BirthDate { get; set; }
     }
 }

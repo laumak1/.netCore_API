@@ -3,7 +3,6 @@ C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\bin\Debug\netcoreapp2.1\Sai
 C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\bin\Debug\netcoreapp2.1\Saitynai.runtimeconfig.dev.json
 C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\bin\Debug\netcoreapp2.1\Saitynai.dll
 C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\bin\Debug\netcoreapp2.1\Saitynai.pdb
-C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\obj\Debug\netcoreapp2.1\Saitynai.csprojAssemblyReference.cache
 C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\obj\Debug\netcoreapp2.1\Saitynai.csproj.CoreCompileInputs.cache
 C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\obj\Debug\netcoreapp2.1\Saitynai.RazorAssemblyInfo.cache
 C:\Users\Laurynas\Desktop\Saitynai\Saitynai\Saitynai\obj\Debug\netcoreapp2.1\Saitynai.RazorAssemblyInfo.cs

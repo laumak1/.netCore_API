@@ -132,6 +132,8 @@ namespace Saitynai.Controllers
             {
                 Email = model.Email,
                 UserName = model.Email,
+                Sex = model.Sex,
+                BirthDate = model.BirthDate,
                 SecurityStamp = Guid.NewGuid().ToString()
             };
 
@@ -143,6 +145,7 @@ namespace Saitynai.Controllers
                 {
                     await _userManager.AddToRoleAsync(user, "Customer");
                 }
+                return Ok(result);
             }
             catch
             {
